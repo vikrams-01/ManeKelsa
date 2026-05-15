@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mane-Kelsa</string>
+    <string name="worker_role">Worker</string>
+    <string name="employer_role">Employer</string>
+    <string name="availability_toggle">I am available today</string>
+    <string name="call_direct">Call Direct</string>
+    <string name="rating_thumbs_up">Thumbs Up</string>
+    <string name="skill_cleaning">Cleaning</string>
+    <string name="skill_gardening">Gardening</string>
+    <string name="skill_cooking">Cooking</string>
+    <string name="skill_plumbing">Plumbing</string>
+    <string name="skill_electrical">Electrical Work</string>
+    <string name="skill_painting">Painting</string>
+    <string name="daily_rate">Daily Rate: %s</string>
+    <string name="nearest_street">Location: %s</string>
+    <string name="nearest_workers">Nearest Workers</string>
+    <string name="no_workers_found">No workers found nearby</string>
+    <string name="distance_km">%s km away</string>
+    <string name="available_now">Available Now</string>
+    <string name="not_available">Not Available</string>
+    <string name="search_workers">Search Workers</string>
+    <string name="worker_details_title">Worker Details</string>
+    <string name="worker_name_label">Name</string>
+    <string name="skill_label">Skill</string>
+    <string name="phone_label">Phone</string>
+    <string name="rating_label">Rating</string>
+    <string name="close_button">Close</string>
+</resources>

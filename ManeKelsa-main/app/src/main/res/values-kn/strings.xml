@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಮನೆ-ಕೆಲಸ</string>
+    <string name="worker_role">ಕೆಲಸಗಾರ</string>
+    <string name="employer_role">ಉದ್ಯೋಗದಾತ</string>
+    <string name="availability_toggle">ನಾನು ಇಂದು ಲಭ್ಯವಿದ್ದೇನೆ</string>
+    <string name="call_direct">ನೇರ ಕರೆ</string>
+    <string name="rating_thumbs_up">ಒಳ್ಳೆಯ ಕೆಲಸ</string>
+    <string name="skill_cleaning">ಸ್ವಚ್ಛಗೊಳಿಸುವಿಕೆ</string>
+    <string name="skill_gardening">ತೋಟಗಾರಿಕೆ</string>
+    <string name="skill_cooking">ಅಡುಗೆ</string>
+    <string name="skill_plumbing">ಕೊಳಾಯಿ ಕೆಲಸ</string>
+    <string name="skill_electrical">ವಿದ್ಯುತ್ ಕೆಲಸ</string>
+    <string name="skill_painting">ಬಣ್ಣ ಹಚ್ಚುವಿಕೆ</string>
+    <string name="daily_rate">ದೈನಂದಿನ ದರ: %s</string>
+    <string name="nearest_street">ಸ್ಥಳ: %s</string>
+    <string name="nearest_workers">ಹತ್ತಿರದ ಕೆಲಸಗಾರರು</string>
+    <string name="no_workers_found">ಹತ್ತಿರದಲ್ಲಿ ಕೆಲಸಗಾರರು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="distance_km">%s ಕಿ.ಮೀ ದೂರ</string>
+    <string name="available_now">ಈಗ ಲಭ್ಯವಿದೆ</string>
+    <string name="not_available">ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="search_workers">ಕೆಲಸಗಾರರನ್ನು ಹುಡುಕಿ</string>
+    <string name="worker_details_title">ಕೆಲಸಗಾರರ ವಿವರಗಳು</string>
+    <string name="worker_name_label">ಹೆಸರು</string>
+    <string name="skill_label">ಕೌಶಲ್ಯ</string>
+    <string name="phone_label">ಫೋನ್</string>
+    <string name="rating_label">ಮೌಲ್ಯಮಾಪನ</string>
+    <string name="close_button">ಮುಚ್ಚಿ</string>
+</resources>
