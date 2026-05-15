@@ -1,0 +1,33 @@
+R_DEF: Internal format may change without notice
+local
+string app_name
+string availability_toggle
+string available_now
+string call_direct
+string close_button
+string daily_rate
+string distance_km
+string employer_role
+string gcm_defaultSenderId
+string google_api_key
+string google_app_id
+string google_crash_reporting_api_key
+string nearest_street
+string nearest_workers
+string no_workers_found
+string not_available
+string phone_label
+string project_id
+string rating_label
+string rating_thumbs_up
+string search_workers
+string skill_cleaning
+string skill_cooking
+string skill_electrical
+string skill_gardening
+string skill_label
+string skill_painting
+string skill_plumbing
+string worker_details_title
+string worker_name_label
+string worker_role

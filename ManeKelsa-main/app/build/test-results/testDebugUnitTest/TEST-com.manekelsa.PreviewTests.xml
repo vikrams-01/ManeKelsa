@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.manekelsa.PreviewTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-05-15T13:34:06.723Z" hostname="VIKRAM" time="28.906">
+  <properties/>
+  <testcase name="workerListScreenPreview" classname="com.manekelsa.PreviewTests" time="26.703"/>
+  <testcase name="workerProfileCardPreview" classname="com.manekelsa.PreviewTests" time="2.159"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[WARNING: A Java agent has been loaded dynamically (C:\Users\Dell\.gradle\caches\8.14.4\transforms\733dd08cb33cf7c7f5efc4dcf85e5faf\transformed\jetified-byte-buddy-agent-1.14.5.jar)
+WARNING: If a serviceability tool is in use, please run with -XX:+EnableDynamicAgentLoading to hide this warning
+WARNING: If a serviceability tool is not in use, please run with -Djdk.instrument.traceUsage for more information
+WARNING: Dynamic loading of agents will be disallowed by default in a future release
+May 15, 2026 7:04:16 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 28
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 35
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 41
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 47
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 53
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 59
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 63
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 68
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 74
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 79
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 84
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 89
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 94
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 100
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 104
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 109
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 114
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 118
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 122
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 126
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 130
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 134
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 138
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 143
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 151
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 156
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 163
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 169
+May 15, 2026 7:04:17 PM app.cash.paparazzi.internal.resources.RepositoryLoader getResourceType
+WARNING: Unrecognized tag name "java-symbol" at C:\Users\Dell\AppData\Local\Android\Sdk\platforms\android-34\data\res\values\config_telephony.xml line 174
+May 15, 2026 7:04:18 PM app.cash.paparazzi.internal.resources.AarSourceResourceRepository$Loader loadPublicResourceNames
+WARNING: Error reading C:\Users\Dell\.gradle\caches\8.14.4\transforms\b5218f2119b21543b1724e18fdb9fff1\transformed\jetified-play-services-base-18.1.0\public.txt: java.nio.file.NoSuchFileException: C:\Users\Dell\.gradle\caches\8.14.4\transforms\b5218f2119b21543b1724e18fdb9fff1\transformed\jetified-play-services-base-18.1.0\public.txt
+May 15, 2026 7:04:18 PM app.cash.paparazzi.internal.resources.AarSourceResourceRepository$Loader loadPublicResourceNames
+WARNING: Error reading C:\Users\Dell\.gradle\caches\8.14.4\transforms\d799269cd22ddede83698bfd63577717\transformed\jetified-firebase-common-20.4.2\public.txt: java.nio.file.NoSuchFileException: C:\Users\Dell\.gradle\caches\8.14.4\transforms\d799269cd22ddede83698bfd63577717\transformed\jetified-firebase-common-20.4.2\public.txt
+May 15, 2026 7:04:18 PM app.cash.paparazzi.internal.resources.AarSourceResourceRepository$Loader loadPublicResourceNames
+WARNING: Error reading C:\Users\Dell\.gradle\caches\8.14.4\transforms\0321368b12aa6512eae6ec00eebab964\transformed\jetified-play-services-basement-18.1.0\public.txt: java.nio.file.NoSuchFileException: C:\Users\Dell\.gradle\caches\8.14.4\transforms\0321368b12aa6512eae6ec00eebab964\transformed\jetified-play-services-basement-18.1.0\public.txt
+May 15, 2026 7:04:27 PM app.cash.paparazzi.internal.PaparazziLogger logAndroidFramework
+INFO: Settings [3]: Can't get key animator_duration_scale from content://settings/global
+May 15, 2026 7:04:35 PM app.cash.paparazzi.internal.PaparazziLogger logAndroidFramework
+INFO: Settings [3]: Can't get key animator_duration_scale from content://settings/global
+]]></system-err>
+</testsuite>
